@@ -50,7 +50,7 @@ plotly==5.13.1
 progressbar==2.5
 protobuf==3.20.3
 pyarrow==11.0.0
-pycairo==1.15.10
+pycairo==1.15.0
 pycparser==2.21
 pydeck==0.8.0
 pydub==0.25.1
