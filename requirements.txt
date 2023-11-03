@@ -44,7 +44,7 @@ packaging==23.0
 pandas==1.5.3
 pangocairocffi==0.4.0
 pangocffi==0.8.0
-Pillow==9.4.0
+Pillow==10.0.0
 pip==23.0.1
 plotly==5.13.1
 progressbar==2.5
