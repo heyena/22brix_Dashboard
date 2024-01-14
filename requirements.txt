@@ -71,7 +71,7 @@ semver==2.13.0
 setuptools==59.6.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.20.0
+streamlit==1.30.0
 streamlit-aggrid==0.0.4
 streamlit-option-menu==0.3.2
 systemd-python==234
