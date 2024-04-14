@@ -21,7 +21,7 @@ et-xmlfile==1.1.0
 gitdb==4.0.10
 GitPython==3.1.31
 httplib2==0.20.2
-idna==3.4
+idna==3.7
 importlib-metadata==4.6.4
 jeepney==0.7.1
 Jinja2==3.1.2
